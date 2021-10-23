@@ -26,7 +26,7 @@
 
 <!-- 👯 Former IBM developer intern -->
 
-- 💬 My interests - **representation learning**, **knowledge graph**, and **xOps**
+- 💬 My interests - **representation learning**, **knowledge graph**, **xOps**
 
 - 📫 How to reach me - **21zz42@outlook.com**
 
