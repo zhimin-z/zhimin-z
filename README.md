@@ -26,7 +26,7 @@
 
 <!-- 👯 Former IBM developer intern -->
 
-- 💬 My interests - AIOps, DevOps, MLOps, DataOps, xOps
+- 💬 My interests - **xOps**: x can be Dev, AI, ML, Data, etc.
 
 - 📫 How to reach me - **21zz42@outlook.com**
 
