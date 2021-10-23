@@ -22,7 +22,7 @@
 
 ---
 
-- 🌱 Currently learning **Cloud Native System**
+- 🌱 Currently learning **cloud native systems**
 
 <!-- 👯 Former IBM developer intern -->
 
