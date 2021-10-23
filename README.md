@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm zhimin-z</h1>
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z&theme=merko&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)
 
 [![GitHub Thaiane](https://img.shields.io/github/followers/zhimin-z?label=follow&style=social)](https://github.com/zhimin-z)
 
