@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm zhimin-z</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)
+
 [![GitHub Thaiane](https://img.shields.io/github/followers/zhimin-z?label=follow&style=social)](https://github.com/zhimin-z)
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/zhimin-z)](https://badges.pufler.dev)
 
