@@ -5,7 +5,6 @@
 [![GitHub Thaiane](https://img.shields.io/github/followers/zhimin-z?label=follow&style=social)](https://github.com/zhimin-z)
 
 [![Commits Badge](https://badges.pufler.dev/commits/monthly/zhimin-z)](https://badges.pufler.dev)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/puf17640)](https://badges.pufler.dev)
 
 ---
 
