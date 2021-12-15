@@ -27,7 +27,7 @@
 
 - 💬 My interests - **representation learning**, **knowledge graph**, **xOps**
 
-- 📫 How to reach me - **knightyzhao@gmail.com**
+- 📫 How to reach me - **knightyzhao at gmail.com**
 
 <!-- ⚡ Fun fact - **Once cracked the internet payment system of a top University** -->
 
