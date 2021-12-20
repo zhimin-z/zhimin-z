@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm zhimin-z</h1>
+<h1 align="center">Hi 👋, I'm Jimmy</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)
 
