@@ -1,4 +1,4 @@
-# Hi 👋, I'm Jimmy
+# Hi 👋, I'm Jimmy!
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## &#x1f4c8; Languages & Tools:
+## 🔧 Languages & Tools:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
