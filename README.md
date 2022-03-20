@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Jimmy</h1>
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)
-![](https://img.shields.io/badge/%E2%9C%89-1439313331%40qq.com-grey) 
-[![GitHub Thaiane](https://img.shields.io/github/followers/zhimin-z?label=follow&style=social)](https://github.com/zhimin-z)
-[![Commits Badge](https://badges.pufler.dev/commits/monthly/zhimin-z)](https://badges.pufler.dev)
-
 
 ## &#x1f4c8; GitHub Stats
 
