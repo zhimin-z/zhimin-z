@@ -23,11 +23,11 @@
 -->
 <!--END_SECTION:activity-->
 
-- 🌱 Currently learning **cloud native systems**
+<!-- 🌱 Currently learning **cloud native systems**
 
 - 💬 My interests - **representation learning**, **knowledge graph**, **xOps**
 
-- 📫 How to reach me - **knightyzhao at gmail.com**
+- 📫 How to reach me - **knightyzhao at gmail.com** -->
 
 <!-- 👯 Former IBM developer intern -->
 
