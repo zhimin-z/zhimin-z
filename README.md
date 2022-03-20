@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jimmy</h1>
+# Hi 👋, I'm Jimmy
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)
 
@@ -11,7 +11,7 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhimin-z&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="Jimmy's GitHub Stats" />
 </a>
 
-### :zap: Recent Activity
+### &#x270d; Recent Activities
 
 <!--START_SECTION:activity-->
 <!--
@@ -25,17 +25,16 @@
 
 - 🌱 Currently learning **cloud native systems**
 
-<!-- 👯 Former IBM developer intern -->
-
 - 💬 My interests - **representation learning**, **knowledge graph**, **xOps**
 
 - 📫 How to reach me - **knightyzhao at gmail.com**
+
+<!-- 👯 Former IBM developer intern -->
 
 <!-- ⚡ Fun fact - **Once cracked the internet payment system of a top University** -->
 
 <!-- 👨‍💻 Fluent in English, Mandarin and Wu Dialect | Experience in language/ game localization. -->
  
-
 <!--
 **zhimin-z/zhimin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -51,12 +50,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<!--
-<a href="https://github.com/zhimin-z/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhimin-z&show_icons=true&include_all_commits=true&theme=material-palenight" alt="Zhimin Zhao's github stats" />
-</a>
--->
-<h3 align="left">Languages & Tools:</h3>
+## &#x1f4c8; Languages & Tools:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
