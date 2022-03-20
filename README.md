@@ -1,5 +1,9 @@
 # Hi 👋, I'm Jimmy!
 
+![](https://img.shields.io/badge/%F0%9F%8F%AB-Queen's%20University-9cf)&emsp;![](https://img.shields.io/badge/%F0%9F%93%9A-Computer%20Science-9cf)
+
+![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%BB-coding-critical)
+
 ## &#x1f4c8; GitHub Stats
 
 <!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)-->
