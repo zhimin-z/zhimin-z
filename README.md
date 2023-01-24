@@ -6,14 +6,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zhimin-z)](https://git.io/streak-stats)-->
-
-<a href="https://github.com/zhimin-z/zhimin-z">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=zhimin-z&hide=java,html,tex&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=3" />
-</a>
-<a href="https://github.com/zhimin-z/zhimin-z">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=zhimin-z&show_icons=true&line_height=27&count_private=true&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21" alt="GitHub Stats" />
-</a>
+![overview](https://raw.githubusercontent.com/xjq7/github-stats-transparent/output/generated/overview.svg)
+![languages](https://raw.githubusercontent.com/xjq7/github-stats-transparent/output/generated/languages.svg)
 
 <!--## &#x270d; Recent Activities-->
 
