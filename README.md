@@ -6,8 +6,8 @@
 
 ## &#x1f4c8; GitHub Stats
 
-![overview](https://raw.githubusercontent.com/zhimin-z/output/generated/overview.svg)
-![languages](https://raw.githubusercontent.com/zhimin-z/output/generated/languages.svg)
+![overview](https://raw.githubusercontent.com/zhimin-z/github-stats-transparent/output/generated/overview.svg)
+![languages](https://raw.githubusercontent.com/zhimin-z/github-stats-transparent/output/generated/languages.svg)
 
 <!--## &#x270d; Recent Activities-->
 
