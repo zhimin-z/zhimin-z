@@ -1,3 +1,6 @@
+<!--   my-header-img -->
+![](./src/header.png)
+
 # Hi 👋, I'm Jimmy!
 
 ![](https://img.shields.io/badge/%F0%9F%8F%AB-Queen's%20University-9cf)&emsp;![](https://img.shields.io/badge/%F0%9F%93%9A-Computer%20Science-9cf)
