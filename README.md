@@ -1,5 +1,5 @@
 <!--   my-header-img -->
-![](./src/header.png)
+![](./images/header.png)
 
 # Hi 👋, I'm Jimmy!
 
