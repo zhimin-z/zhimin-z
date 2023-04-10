@@ -7,7 +7,7 @@
 
 ![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%BB-coding-critical)
 
-## &#x1f4c8; GitHub Stats
+## 📈 GitHub stats
 
 ![overview](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/overview.svg#gh-light-mode-only)
 ![languages](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/languages.svg#gh-light-mode-only)
@@ -51,7 +51,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## 🔧 Languages & Tools:
+## 🔧 Languages & tools:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://www.java.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
@@ -62,4 +62,6 @@ Here are some ideas to get you started:
   <a href="https://pytorch.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>   
   <a href="https://www.tensorflow.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/tensorflow/tensorflow-original.svg" alt="tensorflow" width="40" height="40"/> </a>
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-  
+
+## 💬 Ask me about anything:
+[here](https://github.com/kaili-yang/kaili-yang/issues)
