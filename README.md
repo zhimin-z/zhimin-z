@@ -64,4 +64,4 @@ Here are some ideas to get you started:
   <a href="https://scikit-learn.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
 ## 💬 Ask me about anything:
-[here](https://github.com/kaili-yang/kaili-yang/issues)
+[here](https://github.com/zhimin-z/zhimin-z/issues)
