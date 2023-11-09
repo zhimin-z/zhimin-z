@@ -7,10 +7,10 @@
 
 ![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%BB-coding-critical)
 
-## 📈 GitHub stats
+<!--## 📈 GitHub stats-->
 
-![overview](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/overview.svg#gh-light-mode-only)
-![languages](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/languages.svg#gh-light-mode-only)
+<!--![overview](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/overview.svg#gh-light-mode-only)-->
+<!--![languages](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
 
 <!--## &#x270d; Recent Activities-->
 
