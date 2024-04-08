@@ -1,11 +1,11 @@
 <!--   my-header-img -->
 ![](./images/header.png)
 
-# Hi 👋, I'm Jimmy!
+# Hi 👋, I'm Jimmy Zhao!
 
 ![](https://img.shields.io/badge/%F0%9F%8F%AB-Queen's%20University-9cf)&emsp;![](https://img.shields.io/badge/%F0%9F%93%9A-Computer%20Science-9cf)
 
-## 🔧 Languages & tools:
+## 🔧 Skills:
 <p align="left"> 
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
 <!--   <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> -->
