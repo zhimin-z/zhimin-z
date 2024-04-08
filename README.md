@@ -13,7 +13,7 @@
       <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
     </a>
     <!-- Twitter link -->
-    <a href="" target="_blank">
+    <a href="https://twitter.com/knightyzhao" target="_blank">
       <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
     </a>
   </div>
