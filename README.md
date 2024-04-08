@@ -5,51 +5,21 @@
 
 ![](https://img.shields.io/badge/%F0%9F%8F%AB-Queen's%20University-9cf)&emsp;![](https://img.shields.io/badge/%F0%9F%93%9A-Computer%20Science-9cf)
 
-![](https://img.shields.io/badge/%F0%9F%99%8B%E2%80%8D-creativity-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%A1-self--driven-critical)&emsp;![](https://img.shields.io/badge/%E2%9C%A8-positive-critical)&emsp;![](https://img.shields.io/badge/%F0%9F%92%BB-coding-critical)
-
-<!--## 📈 GitHub stats-->
-
-<!--![overview](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/overview.svg#gh-light-mode-only)-->
-<!--![languages](https://raw.githubusercontent.com/zhimin-z/github-stats/master/generated/languages.svg#gh-light-mode-only)-->
-
-<!--## &#x270d; Recent Activities-->
-
-<!--START_SECTION:activity-->
-<!--
-1. 🗣 Commented on [#7572](https://github.com/apache/skywalking/issues/7572) in [apache/skywalking](https://github.com/apache/skywalking)
-2. 🗣 Commented on [#5101](https://github.com/apache/apisix/issues/5101) in [apache/apisix](https://github.com/apache/apisix)
-3. 🗣 Commented on [#5101](https://github.com/apache/apisix/issues/5101) in [apache/apisix](https://github.com/apache/apisix)
-4. 🗣 Commented on [#5101](https://github.com/apache/apisix/issues/5101) in [apache/apisix](https://github.com/apache/apisix)
-5. 🗣 Commented on [#5101](https://github.com/apache/apisix/issues/5101) in [apache/apisix](https://github.com/apache/apisix)
--->
-<!--END_SECTION:activity-->
-
-<!-- 🌱 Currently learning **cloud native systems**
-
-- 💬 My interests - **representation learning**, **knowledge graph**, **xOps**
-
-- 📫 How to reach me - **knightyzhao at gmail.com** -->
-
-<!-- 👯 Former IBM developer intern -->
-
-<!-- ⚡ Fun fact - **Once cracked the internet payment system of a top University** -->
-
-<!-- 👨‍💻 Fluent in English, Mandarin and Wu Dialect | Experience in language/ game localization. -->
- 
-<!--
-**zhimin-z/zhimin-z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- Connect with me div -->
+<div>
+  <div align="center">
+  <!-- Github link -->
+    <!-- Linkedin Link -->
+    <a href="https://www.linkedin.com/in/zhiminz" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+<!--     <!-- Twitter link -->
+    <a href="https://twitter.com/adithya_s_k" target="_blank">
+      <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    </a> -->
+  </div>
+</div>
 
 ## 🔧 Languages & tools:
 <p align="left"> 
