@@ -3,7 +3,21 @@
 
 # Hi 👋, I'm Jimmy Zhao!
 
-![](https://img.shields.io/badge/%F0%9F%8F%AB-Queen's%20University-9cf)&emsp;![](https://img.shields.io/badge/%F0%9F%93%9A-Computer%20Science-9cf)
+<!-- ------------------------------------------------------------------------------------ -->
+<!-- Connect with me div -->
+<div>
+  <div align="center">
+  <!-- Github link -->
+    <!-- Linkedin Link -->
+    <a href="https://www.linkedin.com/in/zhiminz" target="_blank">
+      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+    </a>
+    <!-- Twitter link -->
+    <a href="" target="_blank">
+      <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
+    </a>
+  </div>
+</div>
 
 ## 🔧 Skills:
 <p align="left"> 
