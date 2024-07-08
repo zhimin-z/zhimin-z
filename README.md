@@ -32,9 +32,9 @@
   <a href="https://scikit-learn.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhimin-z/zhimin-z/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhimin-z/zhimin-z/output/github-contribution-grid-snake.svg">
-  <img width="100%"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhimin-z/zhimin-z/output/github-contribution-grid-snake.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/b599150d-8088-4bf4-b660-b06a24639556">
+  <img width="100%"  alt="github contribution grid snake animation" src="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
 </picture>
 
 ## 💬 Ask me about anything:
