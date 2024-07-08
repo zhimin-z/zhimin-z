@@ -3,6 +3,12 @@
 
 # Hi 👋, I'm Jimmy Zhao!
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/b599150d-8088-4bf4-b660-b06a24639556">
+  <img width="100%"  alt="github contribution grid snake animation" src="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
+</picture>
+
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Connect with me div -->
 <div>
@@ -30,12 +36,6 @@
   <a href="https://github.com/google/jax" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/8/86/Google_JAX_logo.svg" alt="jax" width="40" height="40"/> </a>
   <a href="https://pytorch.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>   
   <a href="https://scikit-learn.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/b599150d-8088-4bf4-b660-b06a24639556">
-  <img width="100%"  alt="github contribution grid snake animation" src="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
-</picture>
 
 ## 💬 Ask me about anything:
 [here](https://github.com/zhimin-z/zhimin-z/issues/new)
