@@ -3,12 +3,6 @@
 
 # Hi 👋, I'm Jimmy Zhao!
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/zhimin-z/zhimin-z/assets/8592144/b599150d-8088-4bf4-b660-b06a24639556">
-  <img width="100%"  alt="github contribution grid snake animation" src="https://github.com/zhimin-z/zhimin-z/assets/8592144/be8338c3-3a65-49d5-adaf-9547b4c594e4">
-</picture>
-
 <!-- ------------------------------------------------------------------------------------ -->
 <!-- Connect with me div -->
 <div>
