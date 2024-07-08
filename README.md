@@ -31,5 +31,11 @@
   <a href="https://pytorch.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/10/PyTorch_logo_icon.svg" alt="pytorch" width="40" height="40"/> </a>   
   <a href="https://scikit-learn.org" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/zhimin-z/zhimin-z/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/zhimin-z/zhimin-z/output/github-contribution-grid-snake.svg">
+  <img width="100%"  alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/zhimin-z/zhimin-z/output/github-contribution-grid-snake.svg">
+</picture>
+
 ## 💬 Ask me about anything:
 [here](https://github.com/zhimin-z/zhimin-z/issues/new)
