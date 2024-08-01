@@ -3,21 +3,10 @@
 
 # Hi 👋, I'm Jimmy Zhao!
 
-<!-- ------------------------------------------------------------------------------------ -->
-<!-- Connect with me div -->
-<div>
-  <div align="center">
-  <!-- Github link -->
-    <!-- Linkedin Link -->
-    <a href="https://www.linkedin.com/in/zhiminz" target="_blank">
-      <img src=https://img.shields.io/badge/linkedin-%232E3440.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-    </a>
-    <!-- Twitter link -->
-    <a href="https://twitter.com/knightyzhao" target="_blank">
-      <img src=https://img.shields.io/badge/twitter-%232E3440.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-    </a>
-  </div>
-</div>
+[![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/knightyzhao)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminz)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/zhiminy)
+[![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n56W86YAAAAJ)
 
 ## 🔧 Skills:
 <p align="left"> 
