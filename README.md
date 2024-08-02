@@ -5,8 +5,8 @@
 
 [![X](https://img.shields.io/badge/X-%23000000?style=for-the-badge&logo=X&logoColor=white)](https://twitter.com/knightyzhao)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/zhiminz)
-[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/zhiminy)
 [![Google Scholar](https://img.shields.io/badge/Scholar-4285F4?style=for-the-badge&logo=google-scholar&logoColor=white)](https://scholar.google.com/citations?user=n56W86YAAAAJ)
+[![Hugging Face](https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=000)](https://huggingface.co/zhiminy)
 
 ## 🔧 Skills:
 <p align="left"> 
