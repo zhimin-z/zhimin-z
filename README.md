@@ -1,7 +1,7 @@
 <!--   my-header-img -->
 ![](./images/header.png)
 
-# Hi 👋, I'm Zhimin Zhao!
+# Hi 👋, I'm Zhimin (Jimmy) Zhao!
 
 <p  style="margin-top: 20px;">
 <a href="mailto:z.zhao@queensu.ca" target="_blank"><img src="./images/email.png" height="32px" style="margin-bottom:-1px"></a>
