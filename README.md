@@ -17,4 +17,4 @@
 <a href="https://huggingface.co/zhiminy" target="_blank"><img src="./images/huggingface.png" height="30px" style="margin-bottom:0px"></a>
 </p> -->
 
-*Feel free to contact me by email if you are interested in discussing or collaborating with me.*
+*Feel free to contact me if you are interested in discussing or collaborating with me.*
