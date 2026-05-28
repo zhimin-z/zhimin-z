@@ -10,6 +10,7 @@
 <a href="https://www.linkedin.com/in/zhiminz" target="_blank"><img src="./images/LinkedIn.png" height="30px" style="margin-bottom:0px"></a>
 <a href="https://www.youtube.com/@jimmyzhao3229" target="_blank"><img src="./images/youtube.png" height="31px" style="margin-bottom:0px"></a>
 <a href="https://www.instagram.com/devilswontcry" target="_blank"><img src="./images/ins.png" height="31px" style="margin-bottom:0px"></a>
+<a href="https://www.douyin.com/user/MS4wLjABAAAA--3bqzPfgztbhA43JH_5UG38QJKkMZA6Lpwfl1b-zBw0vEBII9fn4rZmzphLGTlp" target="_blank"><img src="./images/douyin.png" height="31px" style="margin-bottom:0px"></a>
 <a href="https://www.xiaohongshu.com/user/profile/5add09524eacab3bd0c2b44b" target="_blank"><img src="./images/xiaohongshu.png" height="31px" style="margin-bottom:0px"></a>
 <a href="https://www.zhihu.com/people/zhao-zhi-min-57" target="_blank"><img src="./images/zhihu.png" height="31px" style="margin-bottom:0px"></a>
 <a href="https://space.bilibili.com/382081114" target="_blank"><img src="./images/bilibili.png" height="31px" style="margin-bottom:0px"></a>
