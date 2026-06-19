@@ -15,6 +15,7 @@
 <a href="https://www.zhihu.com/people/zhao-zhi-min-57" target="_blank"><img src="./images/zhihu.png" height="31px" style="margin-bottom:0px"></a>
 <a href="https://space.bilibili.com/382081114" target="_blank"><img src="./images/bilibili.png" height="31px" style="margin-bottom:0px"></a>
 <a href="https://huggingface.co/zhiminy" target="_blank"><img src="./images/huggingface.png" height="30px" style="margin-bottom:0px"></a>
+<a href="https://medium.com/@zhiminzhao" target="_blank"><img src="./images/medium.png" height="30px" style="margin-bottom:0px"></a>
 </p> -->
 
 *Feel free to contact me if you are interested in discussing or collaborating with me.*
